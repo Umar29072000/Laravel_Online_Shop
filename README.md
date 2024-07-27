@@ -25,9 +25,9 @@ Silakan **fork** dulu project ini di **REPOSITORY yang teman-teman punya**
 Clone project dari repo yang teman-teman punya
 
 ```
-git clone https://github.com/{username github teman-teman}/Laravel_Real_Estate.git
+git clone https://github.com/{username github teman-teman}/Laravel_Online_Shop.git
 
-cd Laravel_Real_Estate
+cd Laravel_Online_Shop
 ```
 
 Jalan terminal dengan perintah:
@@ -85,8 +85,14 @@ Silakan dibuka di <code>http://127.0.0.1:8000</code>
 
 
 ### Login
-- Email = admin@example.com
-- Password = 123
+- Email = owner@gmail.com
+- Password = 1
+
+- Email = admin@gmail.com
+- Password = 1
+
+- Email = user@gmail.com
+- Password = 12345
 
 
 ### Kontribusi
