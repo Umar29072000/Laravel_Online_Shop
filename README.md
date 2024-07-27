@@ -92,7 +92,7 @@ Silakan dibuka di <code>http://127.0.0.1:8000</code>
 - Password = 1
 
 - Email = user@gmail.com
-- Password = 12345
+- Password = 1
 
 
 ### Kontribusi
