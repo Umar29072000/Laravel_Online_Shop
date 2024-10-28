@@ -1,4 +1,4 @@
-# Laravel Online Shope
+# Laravel 10 Online Shope
 # Umar Khoirul Afif
 
 Daftar Isi 
